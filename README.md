@@ -151,3 +151,4 @@ ex)
 # 라이센스
 
 해당 프로젝트는 MIT 라이센스를 따릅니다.
+[![CI](https://github.com/sohnmj/quotations-book/actions/workflows/blank.yml/badge.svg)](https://github.com/sohnmj/quotations-book/actions/workflows/blank.yml)
